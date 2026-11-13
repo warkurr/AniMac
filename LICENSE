@@ -1,0 +1,85 @@
+AniMac — Proprietary Software License Agreement
+Copyright (c) 2026 Mathieu (@warkurr). All rights reserved.
+
+================================================================================
+ENGLISH VERSION
+================================================================================
+
+1. OWNERSHIP & PROPRIETARY STATUS
+AniMac (including its source code, architecture, user interface design, icons,
+assets, and compiled binaries) is the exclusive proprietary property of Mathieu
+(@warkurr) and is protected by applicable copyright and intellectual property
+laws. AniMac is NOT open-source software. No rights or licenses to the source
+code are granted under this Agreement.
+
+2. PERSONAL USE LICENSE (COMPILED BINARY)
+Subject to the terms of this Agreement, the author grants you a personal,
+non-exclusive, non-transferable, revocable, royalty-free license to download,
+install, and use the official compiled macOS application binary ("AniMac.app" /
+"AniMac.dmg") distributed through official channels
+(https://github.com/warkurr/AniMac-Releases and the official Homebrew Cask
+`warkurr/tap/animac`) for your own personal use.
+
+3. RESTRICTIONS
+Except as expressly permitted by mandatory applicable law, you may NOT:
+  (a) copy, publish, redistribute, sublicense, sell, rent, lease, or host the
+      software or its source code for third parties;
+  (b) modify, adapt, translate, reverse-engineer, decompile, or disassemble
+      the software, or attempt to derive its source code or bypass any
+      licensing, security, or update verification mechanism;
+  (c) remove or alter any copyright, trademark, or attribution notices;
+  (d) distribute unofficial, modified, or repackaged builds of AniMac.
+
+4. THIRD-PARTY SERVICES & TRADEMARKS
+AniMac is an independent third-party client and is not affiliated with,
+endorsed by, or sponsored by AniList or AniChart. All AniList data, logos, and
+trademarks remain the property of their respective owners and are subject to
+AniList's Terms of Service.
+
+5. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+VERSION FRANÇAISE
+================================================================================
+
+1. PROPRIÉTÉ INTELLECTUELLE ET STATUT FERMÉ
+AniMac (incluant son code source, son architecture, son design d'interface, ses
+icônes, ses ressources et ses binaires compilés) est la propriété exclusive de
+Mathieu (@warkurr). AniMac n'est PAS un logiciel open source. Aucun droit ni
+licence sur le code source n'est accordé au titre du présent contrat.
+
+2. LICENCE D'UTILISATION PERSONNELLE (BINAIRE COMPILÉ)
+Sous réserve du respect des présentes conditions, l'auteur vous accorde une
+licence personnelle, non exclusive, non transférable, révocable et gratuite
+pour télécharger, installer et utiliser l'application macOS compilée officielle
+(« AniMac.app » / « AniMac.dmg ») distribuée via les canaux officiels
+(https://github.com/warkurr/AniMac-Releases et le Cask Homebrew officiel
+`warkurr/tap/animac`) pour votre usage personnel.
+
+3. RESTRICTIONS
+Sauf disposition légale impérative contraire, il vous est interdit de :
+  (a) copier, publier, redistribuer, sous-licencier, vendre, louer ou héberger
+      le logiciel ou son code source auprès de tiers ;
+  (b) modifier, adapter, traduire, rétro-concevoir (reverse-engineer),
+      décompiler ou désassembler le logiciel, ou tenter d'en extraire le code
+      source ou de contourner tout mécanisme de sécurité, de licence ou de
+      vérification de mise à jour ;
+  (c) supprimer ou modifier les mentions de droit d'auteur ou d'attribution ;
+  (d) diffuser des versions modifiées, reconditionnées ou non officielles.
+
+4. SERVICES TIERS ET MARQUES
+AniMac est un client tiers indépendant et n'est ni affilié, ni approuvé, ni
+parrainé par AniList ou AniChart. Toutes les marques, logos et données AniList
+appartiennent à leurs propriétaires respectifs.
+
+5. EXCLUSION DE GARANTIE ET LIMITATION DE RESPONSABILITÉ
+LE LOGICIEL EST FOURNI « TEL QUEL », SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU
+IMPLICITE. EN AUCUN CAS L'AUTEUR NE SAURAIT ÊTRE TENU RESPONSABLE DE TOUT
+DOMMAGE DIRECT OU INDIRECT RÉSULTANT DE L'UTILISATION OU DE L'IMPOSSIBILITÉ
+D'UTILISER LE LOGICIEL.
