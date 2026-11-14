@@ -15,4 +15,4 @@
 
 ## Reporting a vulnerability
 
-If you discover a security vulnerability in AniMac, please report it privately via [GitHub Security Advisories](https://github.com/warkurr/AniMac-Releases/security/advisories/new) rather than opening a public issue.
+If you discover a security vulnerability in AniMac, please report it privately via [GitHub Security Advisories](https://github.com/warkurr/AniMac/security/advisories/new) rather than opening a public issue.

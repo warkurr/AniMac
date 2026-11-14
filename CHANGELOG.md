@@ -7,12 +7,12 @@
 ## [0.3.0] - 2026-11-13
 
 - Switched to `0.x.y` pre-1.0 semantic versioning (`0.3.0`, build `3`), with epoch-aware `UpdateService.isVersion(_:newerThan:)` transition handling for legacy `1.0.0`/`1.1.0` releases.
-- Transitioned to a proprietary closed-source distribution model (`All Rights Reserved`); public Universal 2 `.dmg` releases, SHA-256 checksums, and issue tracking are now hosted on [`warkurr/AniMac-Releases`](https://github.com/warkurr/AniMac-Releases).
+- Transitioned to a proprietary closed-source distribution model (`All Rights Reserved`); source code is hosted privately (`warkurr/AniMac-Source`), while public Universal 2 `.dmg` releases, SHA-256 checksums, and issue tracking are hosted on [`warkurr/AniMac`](https://github.com/warkurr/AniMac).
 - Added macOS menu bar companion (`MenuBarExtra`) with catch-up & upcoming airing tracker, quick `+1` episode progress, background lifecycle persistence, Dock visibility toggle, Launch at Login (`SMAppService`), and Liquid Glass window styling.
 - Added configurable desktop episode airing notifications (`NotificationService`) and `animac://` deep-link routing.
 - Hardened auto-updater verification, OAuth/deep-link handling, GraphQL variable parameterization, and build/release CI workflows.
 
-> **Upgrading from legacy `1.0.0` / `1.1.0`:** Because `0.3.0` resets the marketing version below `1.1.0` and moves public releases to `warkurr/AniMac-Releases`, existing `1.1.0` installs should upgrade once via `brew upgrade --cask animac` (or `brew reinstall --cask warkurr/tap/animac`) or by downloading `AniMac.dmg` from [`warkurr/AniMac-Releases`](https://github.com/warkurr/AniMac-Releases/releases/latest). All future updates (`0.3.1+`) are then handled automatically in-app.
+> **Upgrading from legacy `1.0.0` / `1.1.0`:** Because `0.3.0` resets the marketing version below `1.1.0`, existing `1.1.0` installs should upgrade once via `brew upgrade --cask animac` (or `brew reinstall --cask warkurr/tap/animac`) or by downloading `AniMac.dmg` from [`warkurr/AniMac`](https://github.com/warkurr/AniMac/releases/latest). All future updates (`0.3.1+`) are then handled automatically in-app.
 
 ## [1.1.0] - 2026-11-12
 
