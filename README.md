@@ -4,18 +4,18 @@
   <p>A fast, native macOS desktop &amp; menu bar client for <a href="https://anilist.co">AniList</a>, crafted with SwiftUI &amp; AppKit.</p>
 
   <p>
-    <a href="https://github.com/warkurr/AniMac-Releases/releases/latest"><img src="https://img.shields.io/badge/release-v0.3.0-0A84FF?style=flat-square" alt="Latest Release" /></a>
+    <a href="https://github.com/warkurr/AniMac/releases/latest"><img src="https://img.shields.io/badge/release-v0.3.0-0A84FF?style=flat-square" alt="Latest Release" /></a>
     <img src="https://img.shields.io/badge/macOS-14.0%2B-000000?style=flat-square" alt="macOS 14.0+" />
     <img src="https://img.shields.io/badge/arch-Universal%202%20(Apple%20Silicon%20%26%20Intel)-5856D6?style=flat-square" alt="Universal 2" />
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-Freeware%20(Proprietary)-blue?style=flat-square" alt="License" /></a>
   </p>
 
   <p>
-    <a href="https://github.com/warkurr/AniMac-Releases/releases/latest"><strong>⬇ Download Latest .dmg</strong></a>
+    <a href="https://github.com/warkurr/AniMac/releases/latest"><strong>⬇ Download Latest .dmg</strong></a>
     &nbsp;·&nbsp;
     <a href="CHANGELOG.md">Changelog</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/warkurr/AniMac-Releases/issues">Report a Bug</a>
+    <a href="https://github.com/warkurr/AniMac/issues">Report a Bug</a>
     &nbsp;·&nbsp;
     <a href="SECURITY.md">Security &amp; Privacy</a>
   </p>
@@ -74,7 +74,7 @@ brew upgrade --cask animac
 
 ### Option 2 — Direct Download (`.dmg`)
 
-1. Download **`AniMac.dmg`** from the [**Latest Release**](https://github.com/warkurr/AniMac-Releases/releases/latest).
+1. Download **`AniMac.dmg`** from the [**Latest Release**](https://github.com/warkurr/AniMac/releases/latest).
 2. Open **`AniMac.dmg`** and drag **`AniMac.app`** to your **`Applications`** folder.
 3. *(Optional)* Verify the download checksum against `AniMac.dmg.sha256`:
    ```bash
@@ -94,9 +94,9 @@ AniMac includes a built-in updater (**Settings → About → Check for Updates**
 
 ## Feedback & Bug Reports
 
-Found a bug or have a feature suggestion? Open an issue on the [**Issue Tracker**](https://github.com/warkurr/AniMac-Releases/issues/new/choose).
+Found a bug or have a feature suggestion? Open an issue on the [**Issue Tracker**](https://github.com/warkurr/AniMac/issues/new/choose).
 
-For security vulnerabilities, please follow our [**Security Policy**](SECURITY.md) and report privately via [GitHub Security Advisories](https://github.com/warkurr/AniMac-Releases/security/advisories/new).
+For security vulnerabilities, please follow our [**Security Policy**](SECURITY.md) and report privately via [GitHub Security Advisories](https://github.com/warkurr/AniMac/security/advisories/new).
 
 ---
 

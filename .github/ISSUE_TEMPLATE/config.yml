@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Security vulnerability report
-    url: https://github.com/warkurr/AniMac-Releases/security/advisories/new
+    url: https://github.com/warkurr/AniMac/security/advisories/new
     about: Report a security issue privately via GitHub Security Advisories
