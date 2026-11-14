@@ -4,6 +4,11 @@
 
 ## [Unreleased]
 
+## [0.3.1] - 2026-11-14
+
+- Removed macOS Keychain (`login.keychain-db`) reads/writes in `KeychainService` so locally signed or ad-hoc release updates no longer trigger system Keychain password prompts after binary rebuilds.
+- Preserved AES-256-GCM local vault encryption (`~/Library/Application Support/AniMac/.vault_key` and `.session_vault`) with `0700`/`0600` POSIX permissions, symlink guards, atomic writes, and silent cleanup of legacy Keychain entries.
+
 ## [0.3.0] - 2026-11-13
 
 - Switched to `0.x.y` pre-1.0 semantic versioning (`0.3.0`, build `3`), with epoch-aware `UpdateService.isVersion(_:newerThan:)` transition handling for legacy `1.0.0`/`1.1.0` releases.
