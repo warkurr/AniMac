@@ -4,6 +4,14 @@
 
 ## [Unreleased]
 
+## [0.4.0] - 2026-11-17
+
+- Added full native localization across **7 languages**: English (`en`), French (`fr`), Spanish (`es`), European Portuguese (`pt-PT`), Dutch (`nl`), German (`de`), and Italian (`it`), complete with pluralization rules (`Localizable.stringsdict`), localized AniList tag catalog (`TagCatalog.strings`), and instant restart-free language switching in **Settings → Appearance**.
+- Simplified **Settings → About & Updates** by removing redundant GitHub Releases links and explanatory subtitles.
+- Added `description(asHtml: false)` to Discovery list queries so the Home Hero Banner displays the full media synopsis.
+- Fixed a SwiftUI/AppKit `NSOutlineView` selection double-label rendering artifact in the sidebar on macOS.
+- Expanded the GitHub showcase gallery to 8 Retina screenshots covering Light and Dark modes, the Menu Bar Companion, Personal Statistics, and Settings.
+
 ## [0.3.1] - 2026-11-14
 
 - Removed macOS Keychain (`login.keychain-db`) reads/writes in `KeychainService` so locally signed or ad-hoc release updates no longer trigger system Keychain password prompts after binary rebuilds.

@@ -4,7 +4,7 @@
   <p>A fast, native macOS desktop &amp; menu bar client for <a href="https://anilist.co">AniList</a>, crafted with SwiftUI &amp; AppKit.</p>
 
   <p>
-    <a href="https://github.com/warkurr/AniMac/releases/latest"><img src="https://img.shields.io/badge/release-v0.3.1-0A84FF?style=flat-square" alt="Latest Release" /></a>
+    <a href="https://github.com/warkurr/AniMac/releases/latest"><img src="https://img.shields.io/badge/release-v0.4.0-0A84FF?style=flat-square" alt="Latest Release" /></a>
     <img src="https://img.shields.io/badge/macOS-14.0%2B-000000?style=flat-square" alt="macOS 14.0+" />
     <img src="https://img.shields.io/badge/arch-Universal%202%20(Apple%20Silicon%20%26%20Intel)-5856D6?style=flat-square" alt="Universal 2" />
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-Freeware%20(Proprietary)-blue?style=flat-square" alt="License" /></a>
@@ -31,16 +31,32 @@
     <th width="50%" align="center">Personal Library</th>
   </tr>
   <tr>
-    <td><img src="Assets/Screenshots/discovery.png" alt="Discovery" /></td>
-    <td><img src="Assets/Screenshots/library.png" alt="Library" /></td>
+    <td><img src="Assets/Screenshots/discovery.png" alt="Discovery (Home)" /></td>
+    <td><img src="Assets/Screenshots/library.png" alt="Personal Library" /></td>
   </tr>
   <tr>
-    <th align="center">Media Detail</th>
-    <th align="center">Global Search &amp; Tag Filter</th>
+    <th align="center">Media Detail &amp; Tracking</th>
+    <th align="center">Global Search &amp; Tag Filter (Dark Mode)</th>
   </tr>
   <tr>
-    <td><img src="Assets/Screenshots/detail.png" alt="Media Detail" /></td>
-    <td><img src="Assets/Screenshots/search.png" alt="Global Search" /></td>
+    <td><img src="Assets/Screenshots/detail.png" alt="Media Detail &amp; Tracking" /></td>
+    <td><img src="Assets/Screenshots/search.png" alt="Global Search &amp; Tag Filter" /></td>
+  </tr>
+  <tr>
+    <th align="center">Menu Bar Companion (Light &amp; Dark)</th>
+    <th align="center">Personal Statistics (Dark Mode)</th>
+  </tr>
+  <tr>
+    <td><img src="Assets/Screenshots/menubar.png" alt="Menu Bar Companion" /></td>
+    <td><img src="Assets/Screenshots/statistics.png" alt="Personal Statistics" /></td>
+  </tr>
+  <tr>
+    <th align="center">Trending &amp; Airing Countdowns</th>
+    <th align="center">Native Settings &amp; Liquid Glass</th>
+  </tr>
+  <tr>
+    <td><img src="Assets/Screenshots/trending.png" alt="Trending &amp; Airing Countdowns" /></td>
+    <td><img src="Assets/Screenshots/settings.png" alt="Native Settings &amp; Liquid Glass" /></td>
   </tr>
 </table>
 
@@ -54,7 +70,7 @@
 - **Discovery & Seasonal Charts** — Browse trending, seasonal, upcoming, and top-rated anime and manga with live airing schedules.
 - **Global Search (`⌘F`)** — Fast multi-category search across anime, manga, characters, and staff with genre and tag filtering.
 - **Personal Statistics** — Visual breakdown of watch time, episodes, chapters, score distributions, and favorite genres.
-- **Native, Private & Lightweight** — Universal 2 binary (`arm64` & `x86_64`), zero third-party SDKs or telemetry, offline cache, automatic in-app updates with SHA-256 verification, and full English & French localization.
+- **Native, Private & Lightweight** — Universal 2 binary (`arm64` & `x86_64`), zero third-party SDKs or telemetry, offline cache, automatic in-app updates with SHA-256 verification, and full localization in 7 languages (English, French, Spanish, Portuguese, Dutch, German, and Italian).
 
 ---
 
