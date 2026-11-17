@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/macOS-14.0%2B-000000?style=flat-square" alt="macOS 14.0+" />
     <img src="https://img.shields.io/badge/arch-Universal%202%20(Apple%20Silicon%20%26%20Intel)-5856D6?style=flat-square" alt="Universal 2" />
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-Freeware%20(Proprietary)-blue?style=flat-square" alt="License" /></a>
+    <a href="https://ko-fi.com/warkurr"><img src="https://img.shields.io/badge/Ko--fi-Support%20AniMac-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Support AniMac on Ko-fi" /></a>
   </p>
 
   <p>
@@ -113,6 +114,14 @@ AniMac includes a built-in updater (**Settings → About → Check for Updates**
 Found a bug or have a feature suggestion? Open an issue on the [**Issue Tracker**](https://github.com/warkurr/AniMac/issues/new/choose).
 
 For security vulnerabilities, please follow our [**Security Policy**](SECURITY.md) and report privately via [GitHub Security Advisories](https://github.com/warkurr/AniMac/security/advisories/new).
+
+---
+
+## Support
+
+AniMac is free to download and use without ads or telemetry. If you enjoy using it and want to support ongoing development:
+
+<a href="https://ko-fi.com/warkurr"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
 
 ---
 
