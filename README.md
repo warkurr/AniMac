@@ -4,7 +4,7 @@
   <p>A fast, native macOS desktop &amp; menu bar client for <a href="https://anilist.co">AniList</a>, crafted with SwiftUI &amp; AppKit.</p>
 
   <p>
-    <a href="https://github.com/warkurr/AniMac/releases/latest"><img src="https://img.shields.io/badge/release-v0.4.0-0A84FF?style=flat-square" alt="Latest Release" /></a>
+    <a href="https://github.com/warkurr/AniMac/releases/latest"><img src="https://img.shields.io/badge/release-v0.4.1-0A84FF?style=flat-square" alt="Latest Release" /></a>
     <img src="https://img.shields.io/badge/macOS-14.0%2B-000000?style=flat-square" alt="macOS 14.0+" />
     <img src="https://img.shields.io/badge/arch-Universal%202%20(Apple%20Silicon%20%26%20Intel)-5856D6?style=flat-square" alt="Universal 2" />
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-Freeware%20(Proprietary)-blue?style=flat-square" alt="License" /></a>

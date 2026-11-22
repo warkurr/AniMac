@@ -4,6 +4,14 @@
 
 ## [Unreleased]
 
+## [0.4.1] - 2026-11-23
+
+- Added country-specific legal streaming availability (**Where to Watch**) on anime detail pages via JustWatch GraphQL and AniList `externalLinks`, with automatic macOS country detection and country selectors in **Settings → Appearance** and on detail pages.
+- Redesigned personal media tracking into a minimalist inline bar inside the hero banner (`BannerTrackingBar`), removing the standalone Tracking card and reordering detail sections (**Synopsis → Information → Where to Watch**).
+- Added clickable full-window poster lightbox preview with native macOS in-window blur (`NSVisualEffectView`) and proportional rounded corners.
+- Made the Menu Bar popover dynamically adapt its height to fit 0–4 airing items without empty space below, scrolling vertically beyond 4 items.
+- Added a discreet localized Ko-fi support badge in **Settings → About**.
+
 ## [0.4.0] - 2026-11-17
 
 - Added full native localization across **7 languages**: English (`en`), French (`fr`), Spanish (`es`), European Portuguese (`pt-PT`), Dutch (`nl`), German (`de`), and Italian (`it`), complete with pluralization rules (`Localizable.stringsdict`), localized AniList tag catalog (`TagCatalog.strings`), and instant restart-free language switching in **Settings → Appearance**.
