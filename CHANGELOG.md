@@ -4,6 +4,13 @@
 
 ## [Unreleased]
 
+## [0.4.2] - 2026-11-26
+
+- Added native macOS **Spotlight** library indexing (`SpotlightIndexService`, `CoreSpotlight`) with interactive `.animac` Quick Look preview cards (`AniMacQuickLook.appex`) supporting cover thumbnails, progress bars, `+1` episode/chapter quick increment via `animac://increment/<id>`, and Space/Escape keyboard dismissal. Strictly excludes `18+`, private entries, and Demo Mode.
+- Fixed keyboard navigation shortcuts (`⌘2` / `⌘3`) and `animac://library/...` deep links when *All Anime* / *All Manga* are hidden by default, plus `⌘R` refresh state handling.
+- Fixed `isPrivate` preservation across saves and detail views, zero-count normalization (`episodes == 0` / `chapters == 0` / `volumes == 0`), missing studios and synonyms in library/discovery/search queries, manga release-year sorting, and stale caught-up items in the Menu Bar schedule.
+- Improved **Media Detail**, **Global Search** (pagination for Characters & Staff, aligned grids), **Library** (search across native titles and synonyms, O(1) lookup indexes, deterministic sort tie-breakers), **Statistics**, disk image cache fast-path, and off-main-actor DMG update streaming.
+
 ## [0.4.1] - 2026-11-23
 
 - Added country-specific legal streaming availability (**Where to Watch**) on anime detail pages via JustWatch GraphQL and AniList `externalLinks`, with automatic macOS country detection and country selectors in **Settings → Appearance** and on detail pages.
